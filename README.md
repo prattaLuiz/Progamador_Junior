@@ -1,2 +1,2 @@
 # Progamador_Junior
- This my first repoitory created. Hello World!
+ This my first repository created. Hello World!
